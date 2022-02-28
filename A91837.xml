@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right picture of King Oliure, from top to toe. That all the world may a false rebell know. Whereunto is added, his genealogy, and the memorialls of all his worthy acts from the beginning of his reigne, to his present routing in Ireland. / By Philo Regis, written in rime doggerill for the benefit of all his subjects at Westminster.</title>
+            <author>Philo Regis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91837</idno>
+            <idno type="STC">Wing R1508</idno>
+            <idno type="STC">Thomason E587_9</idno>
+            <idno type="STC">ESTC R206280</idno>
+            <idno type="EEBO-CITATION">99865453</idno>
+            <idno type="PROQUEST">99865453</idno>
+            <idno type="VID">165499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E587[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right picture of King Oliure, from top to toe. That all the world may a false rebell know. Whereunto is added, his genealogy, and the memorialls of all his worthy acts from the beginning of his reigne, to his present routing in Ireland. / By Philo Regis, written in rime doggerill for the benefit of all his subjects at Westminster.</title>
+                  <author>Philo Regis.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the signe of the Traytors Head within Bishops-Gate, and are to be sold to all them that worke for Sir Thomas,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649. [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "Jan. 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Place of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165499:1" rendition="simple:additions"/>
+            <p>The Right PICTURE OF KING OLIURE, from top to toe.</p>
+            <p>That all the World may a falſe Rebell know.</p>
+            <p>Whereunto is added, His <hi>Genealogy,</hi> and the <hi>Memorialls</hi> of all his Worthy Acts from the beginning of his reigne, to his preſent routing in IRELAND.</p>
+            <p>By PHILO REGIS, Written in Rime Doggerill for the benefit of all His SVBJECTS at WESTMINSTER.</p>
+            <q>Behold your KING!</q>
+            <p>
+               <add>Jan. 2<hi rend="sup">d</hi>
+               </add> Printed at the Signe of the <hi>Traytors Head</hi> within <hi>Biſhops</hi>-Gate, and are to be ſold to all them that worke for Sir <hi>THOMAS.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:165499:2"/>
+            <head>The Picture of King NOLL, from top to toe.</head>
+            <argument>
+               <head>THE ARGUMENT.</head>
+               <lg>
+                  <l>OF <hi>Nolls Noſe</hi> my Muſe now ſings,</l>
+                  <l>his <hi>power, force,</hi> and <hi>might:</hi>
+                  </l>
+                  <l>Subduing Kingdomes, murthering Kings,</l>
+                  <l>and winning all by fight.</l>
+               </lg>
+            </argument>
+            <head>HIS PICTURE.</head>
+            <lg>
+               <l>
+                  <hi>NOlls Noſe</hi> is toaſted, his <hi>Jowle</hi> is roaſted,</l>
+               <l>his <hi>Hornes</hi> doe feare no knocks,</l>
+               <l>His <hi>Eares</hi> hang downe, from his bald <hi>Crowne</hi>
+               </l>
+               <l>made bare with the <hi>French P—</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Of all the <hi>Brewers,</hi> my <hi>Muſe</hi> aſſures,</l>
+               <l>
+                  <hi>Noll</hi> beares the comly grace?</l>
+               <l>His <hi>Lips</hi> doe blopper, he beares his Copper</l>
+               <l>in his Brazzen <hi>Face.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nolls</hi> ſawcer <hi>Eyes</hi> ſtaires in the Skyes,</l>
+               <l>his <hi>Teeth</hi> like Hedge ſtakes ſtand;</l>
+               <l>He ſtrikes his <hi>Breaſt,</hi> and tells the reſt,</l>
+               <l>that <hi>God</hi> troops in <hi>Ireland.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Chaps</hi> doth wag, his <hi>Tongue</hi> doth brag,</l>
+               <l>his <hi>Braines</hi> do deceive all:</l>
+               <l>And if his <hi>Neck,</hi> the <hi>Hempe</hi> doth check,</l>
+               <l>he then may ſcape a fall.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:165499:2"/>
+               <l>
+                  <hi>Nols Mouth</hi> devoures; Kings, Crownes, and Powers,</l>
+               <l>his <hi>Gullet</hi> ſtretches wide;</l>
+               <l>His <hi>Stomack</hi> good, as <hi>Kentiſh VVood,</hi>
+               </l>
+               <l>old <hi>Mallet,</hi> or young <hi>Pride.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Shoulders</hi> full, like a Town-Bull,</l>
+               <l>can beare the <hi>State</hi> a pick-pack,</l>
+               <l>His <hi>Lips</hi> can meet, and the <hi>Sisters</hi> greet,</l>
+               <l>when he is at Tub-tick-tack.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Armes</hi> hangs by, aſſuredly,</l>
+               <l>from's <hi>Shoulders</hi> on each ſide:</l>
+               <l>His <hi>wriſts</hi> doe joyne, makes me devine,</l>
+               <l>he ſhall be hang'd with <hi>Pride.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols</hi> theeviſh <hi>Hands,</hi> as the Caſe ſtands,</l>
+               <l>doe pilfer all our goods:</l>
+               <l>His <hi>Nailes</hi> doe claw, at Truth and Law,</l>
+               <l>he thirſteth for our Bloods.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Breaſt</hi> may well, be term'd a Hell,</l>
+               <l>his <hi>Heart</hi> ſo full of Treaſon,</l>
+               <l>His <hi>Ribs</hi> doth crack, his <hi>Conſcience</hi> wrack,</l>
+               <l>his <hi>Maw</hi> will brooke no Reaſon.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Sides</hi> and <hi>Back,</hi> do Sear-cloath lack,</l>
+               <l>ſince <hi>Peters</hi> was his Pander;</l>
+               <l>He tooke ſuch paines, he <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un i'th Reines,</l>
+               <l>yet ſince made <hi>Hugh</hi> Commander.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Guts</hi> doth ake, like Bull at Stake,</l>
+               <l>ſince <hi>Lilburnes</hi> Dogges did rouze him,</l>
+               <l>He did defile, himſelfe the while.</l>
+               <l>brave <hi>Towzer</hi> he did towze him.</l>
+            </lg>
+            <lg>
+               <l>But out behinde, flew ſuch a Winde,</l>
+               <l>from his <hi>Back-doore</hi> with powder,</l>
+               <l>That <hi>Bradſhaw Jack,</hi> quak'd at the crack,</l>
+               <l>and ſaid he nere heard lowder.</l>
+            </lg>
+            <lg>
+               <l>Oh! but <hi>Nols Hanch,</hi> the Divells Panch,</l>
+               <l>that devoures all our Treaſure;</l>
+               <l>His <hi>P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zzle</hi> too, no more can doe</l>
+               <l>the <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſters</hi> any pleaſure.</l>
+            </lg>
+            <lg>
+               <l>The Surgeon ſure, made him indure,</l>
+               <l>for's Treaſon in a Tub,</l>
+               <l>
+                  <pb n="3" facs="tcp:165499:3"/>Which made his Wife at mortall ſtrife,</l>
+               <l>
+                  <hi>Cornelious</hi> did him rub.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Hanger</hi>-byes caus'd then the cryes,</l>
+               <l>of many a lecherous Siſter.</l>
+               <l>His Wife did get one that would fit,</l>
+               <l>
+                  <hi>Morly</hi> devoutly kiſt her.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nols Knees</hi> and <hi>Thighes</hi> none could diviſe</l>
+               <l>how they ſhould hang together:</l>
+               <l>His <hi>Calves</hi> were ſhrunk ſo by that punck,</l>
+               <l>his <hi>Skinne</hi> look'd like tand Leather.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nolls</hi> runagate <hi>Feet,</hi> ſtradled ith' Street,</l>
+               <l>full halfe a yeard or more:</l>
+               <l>His <hi>Legs</hi> were ſhrunke his fleſh ſo ſtunke,</l>
+               <l>that he nere ſince could whore.</l>
+            </lg>
+            <lg>
+               <l>Thus have you him from top to toe,</l>
+               <l>drawne naked to your view,</l>
+               <l>The diſmall <hi>Author</hi> of our woe,</l>
+               <l>ſince hanging is his due.</l>
+            </lg>
+         </div>
+         <div type="mock_genealogy">
+            <head>The Genealogie of <hi>Noll Cromwell,</hi> and his direct Line, ſince the <hi>Creation,</hi> deſcending from his firſt Parents <hi>ZIMRI</hi> and <hi>CORBY.</hi>
+            </head>
+            <p>A <hi>Than</hi> begat <hi>Zimri, Zimri</hi> begat <hi>Corah, Corah</hi> begat <hi>Da<g ref="char:EOLhyphen"/>than, Dathan</hi> begat <hi>Abiram, Abiram</hi> begat <hi>Shimei, Sihm<g ref="char:EOLhyphen"/>ei</hi> begat <hi>Achitophel</hi> of Jezebell, <hi>Achitophel</hi> begat <hi>Abſolom, Ab<g ref="char:EOLhyphen"/>ſolom</hi> begat <hi>Athaliah,</hi> of <hi>Athaliah</hi> was borne <hi>Iudas</hi> that be<g ref="char:EOLhyphen"/>trayed Chriſt, <hi>Iudas</hi> begat <hi>Pilate, Pilate,</hi> begat <hi>Arius, Arius</hi>
+               <pb n="4" facs="tcp:165499:3"/>
+begat <hi>Iulian, Iulian</hi> begat <hi>Nero, Nero</hi> begat <hi>Catalin, Cata<g ref="char:EOLhyphen"/>line</hi> begat <hi>Luther, Luther</hi> begat <hi>Rivilax, Rivilax</hi> begat <hi>Igna<g ref="char:EOLhyphen"/>tius Loyolla,</hi> the father of the Jeſuits, <hi>Ignatius</hi> begat <hi>Faux, Faux</hi> begat <hi>Fairfax</hi> and <hi>Cromwell,</hi> who betrayed and murther<g ref="char:EOLhyphen"/>ed their King.</p>
+            <p>For his Nativity he was borne about <hi>Huntington,</hi> educated in the Schoole of Rebelion; afterwards was ſtocked by his Vncle (whom he ſince plundered) with 500 li. to ſet him up, which by his deboſt life he ſoone run out; for his Trade, hee brewed ſmall Beere in the Iſle of <hi>Ely,</hi> which after he had got<g ref="char:EOLhyphen"/>ten ſeven Wenches with Child (and was named the Town Bull of <hi>Ely</hi>) he broake, couzened his Creditors, lived by his ſhifts, (which were more then were good) ſince which time, by reaſon of his Sonnes poyſoning his Maſter (an Vſurer in <hi>Fetter</hi> Lane) he got an eſtate by his wits; and at laſt choſen a Burges in this Black Parliament for Cambridge-ſhire, and now is become the Junctos <hi>Factotum;</hi> Lord of Lords, King of Kings, the onely Ruler of Princes: made Lord Governour of Ireland, Duke of Diſtraction, Marquis of Mar-trade, Lord Controuler of Con<g ref="char:EOLhyphen"/>ſciences, chiefe Peere of Perſecution, and grand Reſident a<g ref="char:EOLhyphen"/>mong the Tyrants at <hi>Weſtminster,</hi> nine times a perjured Re<g ref="char:EOLhyphen"/>bell, that ſtricke his breſt, out face God and diſſemble with Men, in miſchiefe out of <hi>Machiavell,</hi> in treachery his fore<g ref="char:EOLhyphen"/>fathers <hi>Iudas,</hi> he was an Hypocrite borne, lived all his life hi<g ref="char:EOLhyphen"/>therto a Knave, his good qualities innumerable, his beſt condi<g ref="char:EOLhyphen"/>tions (ſave thoſe of rebelion and murder) as inconſtant as the Wind, he can die his intentions into more colours then the Camelion, his mercy is cruelty, his luſt his God, his Religion Rebellion, his faith is Falſery, innocent blood his beſt ſacrifice; Will to cleare his fraud call God and men to witneſſe, his mur<g ref="char:EOLhyphen"/>ther and perjury profeſſing to be what he is not, will (like a right Hypocrite) juſtifie his protended innocence to your face, yet hug himſelfe in his deepe plots to ruine you, as hee hath done the reſt of the Kingdome; aboliſhed the true Religion, made null the Law of <hi>England,</hi> killed his King, diſinherited his Royall Iſſue, jugguled and packed together a ſet of the moſt notorious knowne Knaves and Tyrants as ever were to rule and wrack the Common people.</p>
+            <p>
+               <pb n="5" facs="tcp:165499:4"/>Now they have put out legall Taxes and Aſſezments for Sir <hi>Thomas</hi> and his Kennell of Blood-Hounds, who with our Mo<g ref="char:EOLhyphen"/>nies feaſt before our faces with Sturgeon, Cavarre, Pheaſants, Partridges, Turkies, &amp;c. ſwagger with whom they pleaſe, and rebel in all voluptuouſneſſe and epicuriſme, riotouſneſſe and exceſſe; Whilſt the poore Tradſmen are undone, and lies idle for want of imployment, his Family hunger-ſtarven, the Com<g ref="char:EOLhyphen"/>mittee-men and Sequeſtrators laughs, the Widow and Father<g ref="char:EOLhyphen"/>leſſe cryes, pynes, and makes moan; the Land languiſhes, War a freſh prepares, Deſolation enſues, Miſery comes after, and Plagues cloſes up the ſad ſcerne of dying <hi>England.</hi> Truth, Faith, Religion, Law, Juſtice, and all Honeſty being baniſhed; and nothing ſuffered amongſt us but Blood, Rapine, Murther, Plun<g ref="char:EOLhyphen"/>der, Equivocation, Lyes, Perjury, Treachery, Tyrany; and all for Sir <hi>Thomas,</hi> though we have not a piece of Bread to Put into our Head, nor the heads of our Wives or Children, yet wee muſt pay what our <hi>Egiptian</hi> Task-maſters lay upon us; or have our goods ſeized on and forcibly carried out or our Houſes, and ſold before our faces by their cruell Officers; Our Wives, Children, and Servants, abuſed, nay, threatned upon the leaſt Reſiſtance to kill, ſlay, and murther them, and this is all th Li<g ref="char:EOLhyphen"/>berty we poore Wretches yet enjoy from our New Keepers, after all our Warre and Sweat, that we cannot keepe a penny in our purſes, nor a good Conſcience in our Vocations without being devoured by theſe <hi>Egiptian vermin,</hi> flung in their Pri<g ref="char:EOLhyphen"/>ſons, and ſacrificed to pining, want, ſcorne reproach, poverty, and miſery: this is the Image of this Apoſtatizing State, and the Picture of their new Government.</p>
+            <p>Now let us returne to record the acts of King <hi>Noll,</hi> he hath alwayes hated the <hi>true God,</hi> reviled and abandoned the <hi>Prote<g ref="char:EOLhyphen"/>stant Religion,</hi> hated the <hi>Church</hi> and all Diſcipline and Order therein; brought all Law, Juſtice, and Power, under the cruell reſtraint of the Sword, baſely bertayed His late Majeſty (of bleſſed memeory) into the Iſle of <hi>VVight,</hi> where after he was tyred out in a <hi>Treatie</hi> for the firme eſtabliſhing of Peace and Concord in this Nation amongſt His Subjects was wickedly by his Order removed to <hi>Hurſt</hi>-Caſtle, and from thence to <hi>VVin<g ref="char:EOLhyphen"/>ſor,</hi> and ſo to Saint <hi>Jamſes</hi> where hee was wickedly reviled, moſt illegally and cruelly murthered by <hi>Pilate Bradſhaw, Ju<g ref="char:EOLhyphen"/>das
+<pb n="6" facs="tcp:165499:4"/>
+Cooke, Ananias Aske,</hi> and the reſt of that Crew of blood-ſtucking Tyrants, Traytors, and Rebels, ſubborned and hired by him; and ſo againſt all former Declarations, Oaths, and Pro<g ref="char:EOLhyphen"/>teſtations, Leagues and Covenants, he hath betrayed his truſt, and treaſonably acted his bloody Deſigne in the Name of the <hi>Commons of England,</hi> though not the twentieth part thereof were agreeing thereto; he hath trayterouſly put guards upon the Parliament, that ought not to be forced in the leaſt; im<g ref="char:EOLhyphen"/>priſoned forty at a time of the Members thereof, he hath at his ſole diſpoſing, the Kings Manners, Courts, Parkes, Forreſts, Cha<g ref="char:EOLhyphen"/>ſes; Biſhops, Deanes, and Chapters Lands, the Kings, Queens, and Princes goods, and divides them amongſt him and his heirs; and yet wracks by Excize, Aſſezment, powling and impoveriſh<g ref="char:EOLhyphen"/>ing the Common people: hee hath traiterouſly changed that happy and ancient Government of King, Lords, and Com<g ref="char:EOLhyphen"/>mons; and hath now impoſed upon them a <hi>Demorricall</hi> and <hi>Ararchicall</hi> Government, conſiſting of Thieves, Knaves, and Fooles; he hath enforced a new Engagement to be taken, <hi>To be true and faithfull to the Common-wealth of</hi> England, <hi>as it now ſtands eſtabliſhed.</hi>
+            </p>
+            <p>This <hi>Picture</hi> of theſe three; Knave <hi>Cromwel</hi> Foole <hi>Fairfax,</hi> and Beggerly <hi>Bradſhaw,</hi> who now excercize all their Tyranny and Spleen over the Saints of the Moſt High, a vertuous King, a learned Clergy, a true-hearted Nobility, a loyall Gentry, and a faithfull Communalty; and this is the ſad <hi>Picture</hi> of our preſent Condition, drawn out to the life.</p>
+            <p>Now let me draw you the <hi>Pict<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</hi> of <hi>England</hi> what it was; the Paradice of <hi>Europe,</hi> the Patterne of Piety, <hi>Beati Populi,</hi> a Bleſſed People; Where our King like the <hi>Sun</hi> in the Firma<g ref="char:EOLhyphen"/>ment, by his bright raines of Honour gave light to our proſpe<g ref="char:EOLhyphen"/>rity, where the Queen like the <hi>Moon</hi> keept a juſt motion in her <hi>Orb</hi> and received her light from that Fountaine of Juſtice her Loyall-hearted <hi>Spouſe;</hi> Where their Progeny, as numerous as the Planets, kept their royall Station in this Earthly Heaven, where was no <hi>aſpects</hi> of hatred of diſcord, but <hi>conjunctio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of Hearts, a <hi>Sextile</hi> of Vertues, a <hi>Qartile</hi> of Faith and Alegiance, a ſacred Religion binding all, and no oppoſition nor evill influ<g ref="char:EOLhyphen"/>ences in this bleſt Fabrick; here was <hi>Caput</hi> and <hi>Canda,</hi> the head and the body, Unity lincked to Peace, Proſperity to Joy, Reli<g ref="char:EOLhyphen"/>gion to Purity, Love to Obedience, Loyalty to Faith, and Cha<g ref="char:EOLhyphen"/>rity
+<pb n="8" facs="tcp:165499:5"/>
+to all; theſe walked hand in hand, tyd together with that <hi>ſacred</hi> band of <hi>
+                  <g ref="char:V">Ʋ</g>nitie:</hi> no contradiction, jarring, hatred, malice, murther, pilling, nor powling by force of Armes; Trading was plentifull, the people were rich, Religion was exercis'd, the Law executed, every man knew his own ſat under his own Vine and eate of the fruit that his own hands had planted, but now—I cannot write for paſſion: the Subject murders his Prince, the Son kills his Father, the Brother betrayes his brother; blooſhed, murther, rapine, hatred, malice and all uncharitableneſſe, no man can beleeve his Neighbour, nothing but fraud, cozzenage, and deviliſhneſſe exerciſed amongſt the Children of Men; no true Honour nor Faith upon the Earth, but a meere Hell of all ſorts of cruell Fiends, a <hi>Sodom</hi> of luſt and uncleanneſſe, a vale of mi<g ref="char:EOLhyphen"/>ſery, a ſeat of war, a Kingdome of cruelty, an Iſland of deſolati<g ref="char:EOLhyphen"/>on, and in fine a confuſed <hi>Choas</hi> of all miſeries; and this is the <hi>Picture</hi> of <hi>Nols</hi> Kingdome, his Government eſtabliſhed with<g ref="char:EOLhyphen"/>out King or Houſe of Lords.</p>
+            <p>O let every heroick Engliſh-man looke upon this <hi>Picture,</hi> and if a <hi>Democritus</hi> let him laugh to ſee what a King of Clouts we have ſet over us; and what fools, verſalls, and ſlaves, we have made our ſelves; and if the Reader be an <hi>Hiracletus,</hi> here is matter for weeping-work enough, even to a ſecond deluge, po<g ref="char:EOLhyphen"/>verty, angliſh, griefe, woe, and lamentation; but I believe all true hearts have drunke already a full Cup of Sorrows; therefore to conclude this <hi>Picture</hi> and finiſh this piece, it will not be amiſſe (in the midſt of our griefe) to make our ſelves a little mirth, and drinke a Health to King CHARLES the II, an a Cup of loy<g ref="char:EOLhyphen"/>all Cannary, ſinging over it this Catch following.</p>
+            <lg>
+               <head>The CATCH.</head>
+               <l>
+                  <hi>A</hi> Health to King <hi>Charles</hi> ſaith <hi>Tom,</hi>
+               </l>
+               <l>away with't ſaith <hi>Ralph</hi> like a man,</l>
+               <l>God bleſſe him ſaith <hi>Moll</hi> and raiſe him ſaith <hi>Doll,</hi>
+               </l>
+               <l>and ſend him his owne ſaith <hi>Nan:</hi>
+               </l>
+               <l>A pox take them all ſaith <hi>Beſſe,</hi>
+               </l>
+               <l>and a plague ſaith <hi>Margerie,</hi>
+               </l>
+               <l>The Divel ſaith <hi>Dick,</hi> and his Dam ſaith <hi>Nick,</hi>
+               </l>
+               <l>and <hi>Amen,</hi> and <hi>Amen</hi> ſay we.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
